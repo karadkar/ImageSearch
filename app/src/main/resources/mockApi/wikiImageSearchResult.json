@@ -1,0 +1,111 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gpsoffset": 10,
+    "continue": "gpsoffset||"
+  },
+  "query": {
+    "pages": {
+      "18987": {
+        "pageid": 18987,
+        "ns": 0,
+        "title": "Mexico City",
+        "index": 2,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Mexican_Federal_District.svg/200px-Flag_of_Mexican_Federal_District.svg.png",
+          "width": 200,
+          "height": 114
+        }
+      },
+      "20167": {
+        "pageid": 20167,
+        "ns": 0,
+        "title": "Mexican cuisine",
+        "index": 9,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/200px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg",
+          "width": 200,
+          "height": 150
+        }
+      },
+      "99808": {
+        "pageid": 99808,
+        "ns": 0,
+        "title": "Mexico City International Airport",
+        "index": 6,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/AICM_AIR_T2.jpg/200px-AICM_AIR_T2.jpg",
+          "width": 200,
+          "height": 163
+        }
+      },
+      "674309": {
+        "pageid": 674309,
+        "ns": 0,
+        "title": "Mexico–United States barrier",
+        "index": 7,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/US-Mexico_barrier_map.png/200px-US-Mexico_barrier_map.png",
+          "width": 200,
+          "height": 96
+        }
+      },
+      "808402": {
+        "pageid": 808402,
+        "ns": 0,
+        "title": "Mexico national football team",
+        "index": 3
+      },
+      "891641": {
+        "pageid": 891641,
+        "ns": 0,
+        "title": "Mexico City Metro",
+        "index": 10,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FE-10_06.jpg/200px-FE-10_06.jpg",
+          "width": 200,
+          "height": 150
+        }
+      },
+      "2817606": {
+        "pageid": 2817606,
+        "ns": 0,
+        "title": "Mexico–United States border",
+        "index": 4,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/United_States%E2%80%93Mexico_border_map.jpg/200px-United_States%E2%80%93Mexico_border_map.jpg",
+          "width": 200,
+          "height": 150
+        }
+      },
+      "3966054": {
+        "pageid": 3966054,
+        "ns": 0,
+        "title": "Mexico",
+        "index": 1,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png",
+          "width": 200,
+          "height": 114
+        }
+      },
+      "8442323": {
+        "pageid": 8442323,
+        "ns": 0,
+        "title": "Mexican Drug War",
+        "index": 5
+      },
+      "11206137": {
+        "pageid": 11206137,
+        "ns": 0,
+        "title": "Mexico–United States relations",
+        "index": 8,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mexico_USA_Locator.svg/200px-Mexico_USA_Locator.svg.png",
+          "width": 200,
+          "height": 88
+        }
+      }
+    }
+  }
+}

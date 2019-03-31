@@ -5,7 +5,7 @@
 object Versions {
     const val gradlePlugin = "3.1.4"
 
-    const val androidSupportLib = "27.1.1"
+    const val androidSupportLib = "28.0.0"
     const val constraintLayout = "1.1.2"
     const val archExtensions = "1.1.1"
 
@@ -29,6 +29,8 @@ object Versions {
     const val robolectric = "3.6.1"
 
     const val room = "1.1.1"
+    const val jackson = "2.3.0"
+    const val picasso = "2.71828"
 }
 
 object Libs {
@@ -39,6 +41,7 @@ object Libs {
     // android support
     const val appCompat = "com.android.support:appcompat-v7:${Versions.androidSupportLib}"
     const val constraintLayout = "com.android.support.constraint:constraint-layout:${Versions.constraintLayout}"
+    const val recyclerView = "com.android.support:recyclerview-v7:${Versions.androidSupportLib}"
 
     // gradle
     const val gradlePlugin = "com.android.tools.build:gradle:${Versions.gradlePlugin}"
@@ -76,6 +79,7 @@ object Libs {
     const val rxJava = "io.reactivex.rxjava2:rxjava:${Versions.rxJava}"
     const val rxAndroid = "io.reactivex.rxjava2:rxandroid:${Versions.rxAndroid}"
     const val mockWebServer = "com.squareup.okhttp3:mockwebserver:${Versions.okhttp}"
+    const val jacksonConverter = "com.squareup.retrofit2:converter-jackson:${Versions.jackson}"
 
     // room
     const val roomRuntime = "android.arch.persistence.room:runtime:${Versions.room}"
@@ -83,4 +87,5 @@ object Libs {
     const val roomRxJava2 = "android.arch.persistence.room:rxjava2:${Versions.room}"
     const val roomTesting = "android.arch.persistence.room:testing:${Versions.room}"
 
+    const val picasso = "com.squareup.picasso:picasso:${Versions.picasso}"
 }
