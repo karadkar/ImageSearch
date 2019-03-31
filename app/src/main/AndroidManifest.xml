@@ -22,7 +22,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".ui.SearchDetailActivity"/>
+        <activity android:name=".ui.SearchDetailActivity"
+                  android:launchMode="singleTop"/>
     </application>
 
 </manifest>

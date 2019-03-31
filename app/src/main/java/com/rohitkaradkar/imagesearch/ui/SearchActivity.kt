@@ -53,9 +53,14 @@ class SearchActivity : AppCompatActivity() {
             if (searchResult != null) {
                 // this can be done with data binding
                 adapter.update(searchResult.getData())
-                binding.rvSearchedImages.requestFocus()
             }
         })
+    }
+
+    override fun onResume() {
+        super.onResume()
+        // remove focus from searchView
+        binding.container.requestFocus()
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
